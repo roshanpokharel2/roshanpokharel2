@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digimoz.com/images/QA-banner.jpg)]
+![MasterHead](https://www.digimoz.com/images/QA-banner.jpg)
 <h1 align="center">Hi 👋, I'm Roshan Pokharel</h1>
 <h3 align="center">A passionate QA Analyst from Nepal.</h3>
 
