@@ -7,8 +7,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanpokharel2" alt="roshanpokharel2" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xK1TA3TJ-rTpahjVj8OObniZkoNPqXAONQ&usqp=CAU">
+<p align="left"> 
+    <a href="https://twitter.com/dillchorroshan" target="blank">
+        <img src="https://img.shields.io/twitter/follow/dillchorroshan?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
+    </a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/dillchorroshan" target="blank"><img src="https://img.shields.io/twitter/follow/dillchorroshan?logo=twitter&style=for-the-badge" alt="dillchorroshan" /></a> </p>
+<p align="left"> 
+    <a href="https://www.facebook.com/roshan.pokharel.3538" target="blank">
+        <img src="https://img.shields.io/badge/Follow%20on%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook" />
+    </a> 
+</p>
+
+<p align="left"> 
+    <a href="https://www.instagram.com/roshanpokharel1/" target="blank">
+        <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+    </a> 
+</p>
+
+
 
 - 🌱 I’m currently learning **Selenium Jenkins**
 
@@ -18,7 +35,8 @@
 
 - 📫 How to reach me **pokharelroshan72@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1faTT6xig0JgqZL8fMUp8ekJRWNsedYgL/view?usp=drive_link](https://drive.google.com/file/d/1VFo83zzqt71F2M8xusoiGypbc6YmD6jO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c8bhpR6putRNGUVYb2K7b-XW3LJ_7cZG/view?usp=sharing]
+- (https://drive.google.com/file/d/1VFo83zzqt71F2M8xusoiGypbc6YmD6jO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
