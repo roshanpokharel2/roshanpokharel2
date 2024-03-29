@@ -35,8 +35,8 @@
 
 - 📫 How to reach me **pokharelroshan72@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c8bhpR6putRNGUVYb2K7b-XW3LJ_7cZG/view?usp=sharing]
-- (https://drive.google.com/file/d/1VFo83zzqt71F2M8xusoiGypbc6YmD6jO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TeL1QyA_W5xx7yzY96AFXQ7jZou2pbG5/view?usp=sharing]
+- (https://drive.google.com/file/d/1TeL1QyA_W5xx7yzY96AFXQ7jZou2pbG5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
