@@ -21,15 +21,15 @@
 
 
 
-- 🌱 I’m currently learning **Selenium, Jenkins**
+- 🌱 I’m currently learning **AI-Assisted & Autonomous Testing **
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshanpokharel2](https://github.com/roshanpokharel2)
 
-- 💬 Ask me about **Manual testing,Agile,Postman,Jmeter,Jira**
+- 💬 Ask me about **Manual testing,Project management,Agile,Postman,Jmeter,Jira**
 
 - 📫 How to reach me **pokharelroshan72@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TeL1QyA_W5xx7yzY96AFXQ7jZou2pbG5/view?usp=sharing]
+- 📄 Know about my experiences [https://roshanpokharel.vercel.app/]
 
 
 <h3 align="left">Connect with me:</h3>
